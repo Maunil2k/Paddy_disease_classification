@@ -19,3 +19,8 @@ Hence, I tried several already available finetuned models like EffificientNet(B0
 <br /><br /><br />
 <img src = "https://user-images.githubusercontent.com/51321172/188848505-6857a4a6-85c1-44b4-95a0-0f4bd5ec580d.JPG" height = "360" width = "503">
 <img src = "https://user-images.githubusercontent.com/51321172/188848679-c65f160c-bb1b-4184-b0ad-e613c1aeb7b6.JPG" height = "360" width = "503">
+<br /><br /><br />
+
+# References:
+1) Competition page: [Paddy Doctor: Paddy Disease Classification](https://www.kaggle.com/competitions/paddy-disease-classification/overview)
+2) Pretrained models: [Keras applications](https://keras.io/api/applications/)
